@@ -4,17 +4,15 @@
 
 Sobre Mi
 
-Soy desarrollador junior sin experiencia profesional, aprendo y practico habilidades en front-end, utilizando tecnologías Html/Css, JavaScript, React js. 
+💻 Soy desarrollador junior con formación en desarrollo front-end y back-end, enfocado en la creación de aplicaciones modernas, funcionales.
 
-🎓 Actualmente estudiante universitario en El Centro Universitario de Innovación .  
+💻 Técnico universitario egresado del Centro Universitario de Innovación.
 
-🚀 Participando del programa **Talento Tech**, donde me estoy especializando en **React.js** y desarrollo front-end.  
+💻 Me encuentro en constante aprendizaje, mejorando mis habilidades y construyendo proyectos reales para seguir creciendo como desarrollador.
 
-💻 Apasionado por la tecnología, el diseño de interfaces y el desarrollo de soluciones web.  
+💻 Trabajo con tecnologías como React.js con Apis Rest, JavaScript, Python, y bases de datos, desarrollando proyectos full stack.
 
-📚 Siempre aprendiendo y construyendo nuevos proyectos para mejorar mis habilidades.  
-
-🌐 Explorá mis repositorios para ver mis avances y proyectos en curso.
+💻 Explorá mis repositorios para ver mis avances y proyectos en curso.
 
 📫 Contacto:   
 
