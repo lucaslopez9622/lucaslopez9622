@@ -4,7 +4,7 @@
 
 Sobre Mi
 
-💻 Soy desarrollador junior con formación en desarrollo front-end y back-end, enfocado en la creación de aplicaciones modernas, funcionales.
+💻 Soy desarrollador con formación en desarrollo front-end y back-end, enfocado en la creación de aplicaciones modernas, funcionales.
 
 💻 Técnico universitario egresado del Centro Universitario de Innovación.
 
